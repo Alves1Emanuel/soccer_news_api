@@ -1,7 +1,20 @@
 [
   {
-    "titulo": "Cruzeiro goleia Santos e diminui chances de queda no Brasileirão Feminino", 
-    "descrição": "TODO",
-    "image": "TODO"
-  }  
+    "title": "De virada, Seleção Brasileira feminina perde para Suécia em amistoso preparatório", 
+    "description": "Nesta terça-feira, a Seleção Brasileira feminina perdeu o amistoso para a Suécia por 3 a 1, em Estocolmo",
+    "image": "https://static.gazetaesportiva.com/uploads/imagem/2022/06/28/52180363725_3880efcc69_k-1024x683.jpg",
+    "link":"https://www.gazetaesportiva.com/times/brasil/de-virada-selecao-brasileira-feminina-perde-para-suecia-em-amistoso-preparatorio/"
+  },
+  {
+    "title": "Fotos da final do Brasileirão feminino sub-20",
+    "description": "Veja fotos da final do Brasileirão feminino sub-20 entre Internacional e São Paulo",
+    "image": "https://static.gazetaesportiva.com/uploads/imagem/2022/07/02/52187839717_22fe56a116_k-1024x683.jpg",
+    "link":"https://www.gazetaesportiva.com/times/sao-paulo/veja-fotos-da-final-do-brasileirao-feminino-sub-20-entre-internacional-e-sao-paulo/#foto=4"
+  },
+  {
+    "title": "Duda Sampaio e Natascha são convocadas por Pia; Gabi Nunes e Letícia são cortadas",
+    "description": "Dois nomes novos apareceram na lista das atletas convocadas para defender a Seleção Brasileira feminina na Copa América neste ano. A meia Duda Sampaio, do Internacional, e a goleira Natascha, do Flamengo, foram chamadas pela técnica Pia Sundhage após corte de duas jogadoras.",
+    "image": "https://s2.glbimg.com/Bkc2p9mxWqY06Hbj-gzyTzblvMo=/0x0:2048x1365/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2020/S/W/II9D5BRUq6qIS0Z7yRdA/50517354333-f7de1e9b2f-k.jpg",
+    "link":"https://ge.globo.com/futebol/selecao-brasileira/noticia/2022/07/03/natascha-e-duda-sampaio-sao-chamadas-para-a-copa-america-apos-cortes-de-leticia-izidoro-e-gabi-nunes.ghtml"
+  },
 ] 
